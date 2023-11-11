@@ -1,0 +1,103 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:sans-serif;
+}
+header{
+    height:125px;
+    width:100%;
+    text-align:center;
+}
+.name{
+    text-align: center;
+    font-size:3rem;
+}
+.intro{
+    text-align:center;
+    margin-top:15px;
+    font-size:1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+    overflow:hidden;
+    cursor: pointer;
+}
+.love{
+    text-align: center;
+    margin-bottom:20px;
+    font-size:1.2rem;
+}
+.images image{
+    border-radius: 20px;
+    margin-bottom: 5px;
+    align-items: center;
+}
+.para{
+    margin-left:80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+    letter-spacing:0.5px;
+}
+strong{
+    margin-left:80px;
+    font-size: 1.5rem;
+}
+.list{
+    margin-top:15px;
+    margin-left:80px;
+    margin-bottom:40px;
+}
+.list li{
+    padding-bottom: 10px;
+}
+.awards{
+    height:330px;
+    width:100%;
+    margin-bottom: 15px;
+}
+.list1{
+    float:left;
+}
+.padmashri{
+    float:right;
+    margin-right:350px;
+}
+.pictures{
+    height:400px;
+    width:100%;
+    display: flex;
+    padding-right: 200px;
+}
+.picture1 img{
+    margin-top:50px;
+    left:30%;
+    margin-left:100px;
+}
+.picture2 img{
+    margin-top: 50px;
+    margin-right:20px;
+}
+.picpara{
+    margin-top:70px;
+    margin-right:85px;
+    letter-spacing: 1px;
+}
+.vamika{
+    display:flex;
+    height:350px;
+    width:100%;
+    margin-bottom:8px;
+}
+.vampara{
+    margin-left:80px;
+    margin-right:80px;
+    letter-spacing: 1px;
+    margin-top:50px;
+}
+.anushka{
+    margin-right:150px;
+}
+.last p{
+    text-align: center;
+    font-size:15px;
+}
